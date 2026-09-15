@@ -40,7 +40,7 @@ date: {
       title: 'ProtoFall Mobile Portfolio App',
 
       description:
-        'Developed as an independent project for a 5th-semester Mobile Programming course, ProtoFall is a personal portfolio application engineered to address the challenge of effectively presenting candidate qualifications to potential employers and institutions. The concept combines modern UI/UX design and clean front-end architecture to deliver an intuitive, well-structured digital resume that seamlessly displays skills, achievements, and professional experiences. By focusing on accessibility and seamless navigational logic, the application serves as a reliable personal branding tool designed to highlight career growth and academic accomplishments.',
+        'Developed as an independent project for a 5th semester at Mobile Programming course, ProtoFall is a personal portfolio application engineered to address the challenge of effectively presenting candidate qualifications to potential employers and institutions. The concept combines modern UI/UX design and clean front-end architecture to deliver an intuitive, well-structured digital resume that seamlessly displays skills, achievements, and professional experiences. By focusing on accessibility and seamless navigational logic, the application serves as a reliable personal branding tool designed to highlight career growth and academic accomplishments.',
     },
 
     ja: {
